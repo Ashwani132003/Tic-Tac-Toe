@@ -18,8 +18,14 @@ H1 {
     background: blue;
 }
 
-body {
+/* body {
     background: orangered;
+} */
+
+body {
+    background-image: url('bg-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .select-box,
