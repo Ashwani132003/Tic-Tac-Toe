@@ -19,7 +19,8 @@ H1 {
 }
 
 body {
-    background: url(./Background.jpg);
+    background-image: url('bg-image.jpg');
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
