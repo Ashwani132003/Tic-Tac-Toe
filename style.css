@@ -19,7 +19,8 @@ H1 {
 }
 
 body {
-    background: orangered;
+    background: url(./Background.jpg);
+    background-repeat: no-repeat;
 }
 
 .select-box,
