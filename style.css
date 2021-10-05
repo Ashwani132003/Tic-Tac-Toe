@@ -18,10 +18,6 @@ H1 {
     background: blue;
 }
 
-/* body {
-    background: orangered;
-} */
-
 body {
     background-image: url('bg-image.jpg');
     background-size: cover;
